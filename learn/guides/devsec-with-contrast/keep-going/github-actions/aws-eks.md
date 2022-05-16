@@ -141,4 +141,4 @@ Documentation can be found at these locations:
  * [Example Code Repository](https://github.com/admiralappsec/eks-github-actions-demo)
  * [Contrast Security Website](https://contrastsecurity.com/)
  * [Contrast Security Docs](https://docs.contrastsecurity.com/?lang=en)
- * [Contrast Security Developer Hub](https://developer.contrastsecurity.com/)
+ * [Contrast Security Developer Hub](https://contrastfree.contrastsecurity.com/)

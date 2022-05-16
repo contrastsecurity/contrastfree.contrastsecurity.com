@@ -6,16 +6,16 @@ const FontPreloadPlugin = require('webpack-font-preload-plugin');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
 
-  title: 'Contrast Developers',
+  title: 'Contrast Free',
   tagline: 'Fast security for applications: your code, your libraries, and everything in-between.',
-  url: 'https://developer.contrastsecurity.com',
+  url: 'https://contrastfree.contrastsecurity.com',
 
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'contrastsecurity', // Usually your GitHub org/user name.
-  projectName: 'developer.contrastsecurity.com', // Usually your repo name.
+  projectName: 'contrastfree.contrastsecurity.com', // Usually your repo name.
   trailingSlash: true,
 
   presets: [
@@ -28,13 +28,13 @@ const FontPreloadPlugin = require('webpack-font-preload-plugin');
           routeBasePath: 'learn',
           breadcrumbs: false,
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/contrastsecurity/developer.contrastsecurity.com/blob/master/',
+          editUrl: 'https://github.com/contrastsecurity/contrastfree.contrastsecurity.com/blob/master/',
         },
         blog: {
           path: 'blog',
           showReadingTime: true,
           editUrl:
-            'https://github.com/contrastsecurity/developer.contrastsecurity.com/blob/master/blog/',
+            'https://github.com/contrastsecurity/contrastfree.contrastsecurity.com/blob/master/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -52,7 +52,7 @@ const FontPreloadPlugin = require('webpack-font-preload-plugin');
     //     routeBasePath: 'get-started',
     //     sidebarPath: false,
     //     breadcrumbs: false,
-    //     editUrl: 'https://github.com/contrastsecurity/developer.contrastsecurity.com/blob/master/',
+    //     editUrl: 'https://github.com/contrastsecurity/contrastfree.contrastsecurity.com/blob/master/',
     //   },
     // ],
     [

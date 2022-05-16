@@ -1,6 +1,6 @@
-# developer.contrastsecurity.com
+# contrastfree.contrastsecurity.com
 
-Sources for the Contrast Developer site.
+Sources for the Contrast free tools site.
 
 ## Getting Started
 
@@ -9,14 +9,14 @@ You will need [Node.js](https://nodejs.org/en/) and [git](https://git-scm.com/bo
 Open a command-prompt or terminal, and run the following commands:
 
 ```
-git clone https://github.com/contrastsecurity/developer.contrastsecurity.com
-cd developer.contrastsecurity.com
+git clone https://github.com/contrastsecurity/contrastfree.contrastsecurity.com
+cd contrastfree.contrastsecurity.com
 npm install
 ```
 
 ## Testing the Site
 
-You can start a live web server (which automatically rebuilds when changes are made) using the following command within the "developer.contrastsecurity.com" directory:
+You can start a live web server (which automatically rebuilds when changes are made) using the following command within the "contrastfree.contrastsecurity.com" directory:
 
 ```
 npm run start
@@ -28,7 +28,7 @@ The majority of the site pages are written in [Markdown](https://www.markdowngui
 
 You can open, edit and save any \*.md file and the page will be rebuilt automatically.
 
-If it is a small edit, you can also make the change live on GitHub. Find the page you wish to edit, click the "edit" icon, and you can make the changes online. Once you are done, GitHub will create the pull request for you ([example](https://github.com/contrastsecurity/developer.contrastsecurity.com/edit/master/learn/getting-started/contrast-cli.md)). You will need to be signed into your GitHub account.
+If it is a small edit, you can also make the change live on GitHub. Find the page you wish to edit, click the "edit" icon, and you can make the changes online. Once you are done, GitHub will create the pull request for you ([example](https://github.com/contrastsecurity/contrastfree.contrastsecurity.com/edit/master/learn/getting-started/contrast-cli.md)). You will need to be signed into your GitHub account.
 
 ## Adding a Page
 
@@ -44,12 +44,12 @@ git commit -m "Added new page"
 git push
 ```
 
-If you do not, [fork](https://github.com/contrastsecurity/developer.contrastsecurity.com/fork) the repository, then [make a pull request](https://opensource.com/article/19/7/create-pull-request-github). 
+If you do not, [fork](https://github.com/contrastsecurity/contrastfree.contrastsecurity.com/fork) the repository, then [make a pull request](https://opensource.com/article/19/7/create-pull-request-github). 
 
 If you have already cloned the primary repository, you can change your clone to point to your fork instead using the following command:
 
 ```
-git remote set-url origin https://github.com/<your name>/developer.contrastsecurity.com
+git remote set-url origin https://github.com/<your name>/contrastfree.contrastsecurity.com
 ```
 
 Then you can create a new branch, push and use the GitHub web UI to start a pull request.

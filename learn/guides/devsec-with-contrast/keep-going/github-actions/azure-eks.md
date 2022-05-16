@@ -147,4 +147,4 @@ _Note - The Service Principal will need enough permissions to build, commit, pul
  * [Example Code Repository](https://github.com/admiralappsec/eks-github-actions-demo)
  * [Contrast Security Website](https://contrastsecurity.com/)
  * [Contrast Security Docs](https://docs.contrastsecurity.com/?lang=en)
- * [Contrast Security Developer Hub](https://developer.contrastsecurity.com/)
+ * [Contrast Security Developer Hub](https://contrastfree.contrastsecurity.com/)
